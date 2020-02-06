@@ -3,6 +3,7 @@ import React from 'react';
 import './App.css';
 
 function App() {
+  let p = "6th"
   return (
  <body>
    
@@ -72,7 +73,7 @@ function App() {
     <div class="row">
       <div class="col-12 content">
         <center>
-          <h4>We are coming soon</h4>
+  <h4>We are coming soon &nbsp; &lt;  &nbsp; 6th - 7th - 8th March &nbsp;    &#47;  &gt;</h4>
         </center>
       </div>
     </div>

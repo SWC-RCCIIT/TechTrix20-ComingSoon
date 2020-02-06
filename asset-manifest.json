@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TechTrix20-ComingSoon/static/css/main.ea7aa732.chunk.css",
+    "main.js": "/TechTrix20-ComingSoon/static/js/main.cacac50b.chunk.js",
+    "main.js.map": "/TechTrix20-ComingSoon/static/js/main.cacac50b.chunk.js.map",
+    "runtime-main.js": "/TechTrix20-ComingSoon/static/js/runtime-main.1325997b.js",
+    "runtime-main.js.map": "/TechTrix20-ComingSoon/static/js/runtime-main.1325997b.js.map",
+    "static/js/2.bb9e38ab.chunk.js": "/TechTrix20-ComingSoon/static/js/2.bb9e38ab.chunk.js",
+    "static/js/2.bb9e38ab.chunk.js.map": "/TechTrix20-ComingSoon/static/js/2.bb9e38ab.chunk.js.map",
+    "index.html": "/TechTrix20-ComingSoon/index.html",
+    "precache-manifest.ec2761c98a8e059c569bc4fd9ab6b334.js": "/TechTrix20-ComingSoon/precache-manifest.ec2761c98a8e059c569bc4fd9ab6b334.js",
+    "service-worker.js": "/TechTrix20-ComingSoon/service-worker.js",
+    "static/css/main.ea7aa732.chunk.css.map": "/TechTrix20-ComingSoon/static/css/main.ea7aa732.chunk.css.map",
+    "static/js/2.bb9e38ab.chunk.js.LICENSE.txt": "/TechTrix20-ComingSoon/static/js/2.bb9e38ab.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1325997b.js",
+    "static/js/2.bb9e38ab.chunk.js",
+    "static/css/main.ea7aa732.chunk.css",
+    "static/js/main.cacac50b.chunk.js"
+  ]
+}

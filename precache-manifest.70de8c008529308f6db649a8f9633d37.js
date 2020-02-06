@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "19b67613f3d3222493462ee5e616394b",
+    "revision": "40e66c35c986427488c850ba268ec76a",
     "url": "/TechTrix20-ComingSoon/index.html"
   },
   {
-    "revision": "3e732bb532efc3f318a9",
-    "url": "/TechTrix20-ComingSoon/static/css/main.ea7aa732.chunk.css"
+    "revision": "374210bd2046340ec76c",
+    "url": "/TechTrix20-ComingSoon/static/css/main.352d21c8.chunk.css"
   },
   {
     "revision": "e43cbaa42215f9f96f33",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TechTrix20-ComingSoon/static/js/2.bb9e38ab.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3e732bb532efc3f318a9",
-    "url": "/TechTrix20-ComingSoon/static/js/main.cacac50b.chunk.js"
+    "revision": "374210bd2046340ec76c",
+    "url": "/TechTrix20-ComingSoon/static/js/main.39414bec.chunk.js"
   },
   {
     "revision": "0fa50e025294112794c7",

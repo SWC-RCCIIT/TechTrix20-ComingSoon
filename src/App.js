@@ -1,7 +1,7 @@
 import React from 'react'
 import './App.css';
-import Screen from './components/Screen'
-import Loader from './components/Loader'
+import Screen from './components/Screen/Screen'
+import Loader from './components/Loader/Loader'
 export class App extends React.Component {
   constructor(props) {
     super(props);

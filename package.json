@@ -10,6 +10,7 @@
     "gh-pages": "^2.2.0",
     "light-modal": "^1.1.0",
     "react": "^16.12.0",
+    "react-animated-css": "^1.2.1",
     "react-animated-modal": "^1.1.1",
     "react-dom": "^16.12.0",
     "react-rotating-text": "^1.4.1",

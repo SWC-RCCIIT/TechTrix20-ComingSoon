@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import './Screen.css'
-import Button from './Buttons/Button';
-import Footer from './Footer/Footer';
+import Button from '../Buttons/Button';
+import Footer from '../Footer/Footer';
 export class Screen extends Component {
     render() {
         return (

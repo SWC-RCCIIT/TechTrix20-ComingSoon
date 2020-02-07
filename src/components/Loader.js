@@ -4,9 +4,10 @@ export class Loader extends Component {
     render() {
         return (
             <div>
-                <p class="aligncenter">
-    <img id="logo" src="./img/logo-2.png" alt="centered image" height="250px;" width="250px;" alt="im" />
+                <p className="aligncenter">
+    <img id="logo" src="./img/logo-2.png"  height="250px;" width="250px;" alt="pht" />
 </p>
+
             </div>
         )
     }

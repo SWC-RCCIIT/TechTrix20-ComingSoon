@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/TechTrix20-ComingSoon/static/css/main.a6c4f25a.chunk.css",
-    "main.js": "/TechTrix20-ComingSoon/static/js/main.af410995.chunk.js",
-    "main.js.map": "/TechTrix20-ComingSoon/static/js/main.af410995.chunk.js.map",
+    "main.js": "/TechTrix20-ComingSoon/static/js/main.d73639f6.chunk.js",
+    "main.js.map": "/TechTrix20-ComingSoon/static/js/main.d73639f6.chunk.js.map",
     "runtime-main.js": "/TechTrix20-ComingSoon/static/js/runtime-main.1325997b.js",
     "runtime-main.js.map": "/TechTrix20-ComingSoon/static/js/runtime-main.1325997b.js.map",
-    "static/js/2.6a976c1a.chunk.js": "/TechTrix20-ComingSoon/static/js/2.6a976c1a.chunk.js",
-    "static/js/2.6a976c1a.chunk.js.map": "/TechTrix20-ComingSoon/static/js/2.6a976c1a.chunk.js.map",
+    "static/js/2.68052153.chunk.js": "/TechTrix20-ComingSoon/static/js/2.68052153.chunk.js",
+    "static/js/2.68052153.chunk.js.map": "/TechTrix20-ComingSoon/static/js/2.68052153.chunk.js.map",
     "index.html": "/TechTrix20-ComingSoon/index.html",
-    "precache-manifest.de18e76f953440ce4ab6dec7003432a8.js": "/TechTrix20-ComingSoon/precache-manifest.de18e76f953440ce4ab6dec7003432a8.js",
+    "precache-manifest.7e88e671197ff9656b2f5d8174ac9a42.js": "/TechTrix20-ComingSoon/precache-manifest.7e88e671197ff9656b2f5d8174ac9a42.js",
     "service-worker.js": "/TechTrix20-ComingSoon/service-worker.js",
     "static/css/main.a6c4f25a.chunk.css.map": "/TechTrix20-ComingSoon/static/css/main.a6c4f25a.chunk.css.map",
-    "static/js/2.6a976c1a.chunk.js.LICENSE.txt": "/TechTrix20-ComingSoon/static/js/2.6a976c1a.chunk.js.LICENSE.txt"
+    "static/js/2.68052153.chunk.js.LICENSE.txt": "/TechTrix20-ComingSoon/static/js/2.68052153.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1325997b.js",
-    "static/js/2.6a976c1a.chunk.js",
+    "static/js/2.68052153.chunk.js",
     "static/css/main.a6c4f25a.chunk.css",
-    "static/js/main.af410995.chunk.js"
+    "static/js/main.d73639f6.chunk.js"
   ]
 }

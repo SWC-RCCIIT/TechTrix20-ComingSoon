@@ -20,7 +20,7 @@ export  class Button extends React.Component {
 
           {this.state.show ? '' : <button onClick={this.openText} type="button" className="btn mt-2 mt-md-0" id="reach-us">More</button> }  
           
-         {this.state.show ? <ReactRotatingText color="#cc0033" items={['We are coming', '6th - 7th - 8th March', 'Stay tuned']} /> : ''}
+         {this.state.show ? <ReactRotatingText color="#cc0033" items={[ '5th - 7th March , 2020 .', 'Landing soon at RCCIIT .', 'Stay tuned .']} /> : ''}
 
         </form>
       </div>

@@ -7,7 +7,7 @@ export class Loader extends Component {
         return (
             <center>
      <Animated className="image_container" animationIn="bounceInLeft" animationOut="fadeOut" isVisible={true}>
-                <img id="img-ld" src="./img/logo-2.png" />
+                <img id="img-ld" src="./img/logo-2.png" alt="techtrix" />
 
         </Animated>
                 </center>

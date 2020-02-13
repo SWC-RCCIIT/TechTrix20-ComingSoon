@@ -19,7 +19,7 @@ const Screen = function() {
 		return remainingTime;
 	};
 
-	let [result, setResult] = useState(timeLeft);
+	let [result, setResult] = useState(timeLeft());
 
 	useEffect(() => {
 		setInterval(() => {

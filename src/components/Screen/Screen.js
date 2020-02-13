@@ -15,7 +15,8 @@ const Screen = function() {
 				minutes: Math.floor((difference / 1000 / 60) % 60),
 				seconds: Math.floor((difference / 1000) % 60)
 			};
-		}
+    }
+    console.log("🐽");
 		return remainingTime;
 	};
 

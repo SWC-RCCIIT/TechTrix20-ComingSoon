@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/TechTrix20-ComingSoon/precache-manifest.7e88e671197ff9656b2f5d8174ac9a42.js"
+  "/TechTrix20-ComingSoon/precache-manifest.0435030394ffa34dcf96f9be6a2de456.js"
 );
 
 self.addEventListener('message', (event) => {
